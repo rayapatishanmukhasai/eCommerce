@@ -23,4 +23,6 @@ public class ProductDto {
     private String description;
     private double price;
 
+    public void setId(Long productId) {
+    }
 }
