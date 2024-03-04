@@ -1,7 +1,7 @@
-package com.ecommerce.controllers;
+package com.rayapati.ecommerce.controllers;
 
-import com.ecommerce.dto.ProductDto;
-import com.ecommerce.services.ProductService;
+import com.rayapati.ecommerce.dto.ProductDto;
+import com.rayapati.ecommerce.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

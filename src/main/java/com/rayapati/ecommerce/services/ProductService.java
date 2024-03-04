@@ -1,7 +1,7 @@
-package com.ecommerce.services;
+package com.rayapati.ecommerce.services;
 
-import com.ecommerce.dto.ProductDto;
-import com.ecommerce.repositories.ProductRepository;
+import com.rayapati.ecommerce.dto.ProductDto;
+import com.rayapati.ecommerce.repositories.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

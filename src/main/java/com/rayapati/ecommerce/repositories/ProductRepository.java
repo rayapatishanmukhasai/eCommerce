@@ -1,6 +1,6 @@
-package com.ecommerce.repositories;
+package com.rayapati.ecommerce.repositories;
 
-import com.ecommerce.dto.ProductDto;
+import com.rayapati.ecommerce.dto.ProductDto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

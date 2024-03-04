@@ -1,4 +1,4 @@
-package com.ecommerce.dto;
+package com.rayapati.ecommerce.dto;
 
 
 import jakarta.persistence.Entity;
@@ -18,11 +18,8 @@ public class ProductDto {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-
     private String name;
     private String description;
     private double price;
 
-    public void setId(Long productId) {
-    }
 }
